@@ -80,6 +80,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<mainClass>com.example.demo.DemoApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
